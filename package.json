@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.9",
+    "sequelize-cli": "^6.6.2",
     "vite": "^6.0.7",
     "vitest": "^2.1.8"
   }
