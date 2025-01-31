@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "atrix9090",
+    "database": "authentication-system",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "test": {
+    "username": "postgres",
+    "password": "atrix9090",
+    "database": "authentication-system",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "production": {
+    "username": "postgres",
+    "password": "atrix9090",
+    "database": "authentication-system",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  }
+}
